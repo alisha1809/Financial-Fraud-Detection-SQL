@@ -1,0 +1,127 @@
+txn_id,user_id,amount,city,merchant,payment_method,txn_time
+1,101,1207.0,Hyderabad,Croma,Net Banking,2026-05-01 09:05:00
+2,101,1528.75,Delhi,Zomato,Net Banking,2026-05-01 12:05:00
+3,101,1850.5,Delhi,Reliance,Debit Card,2026-05-01 15:05:00
+4,102,1214.0,Pune,Myntra,UPI,2026-05-01 09:10:00
+5,102,1535.75,Mumbai,Reliance,UPI,2026-05-01 12:10:00
+6,102,1857.5,Bangalore,DMart,Credit Card,2026-05-01 15:10:00
+7,103,1221.0,Hyderabad,Amazon,Credit Card,2026-05-01 09:15:00
+8,103,1542.75,Chennai,DMart,Debit Card,2026-05-01 12:15:00
+9,103,1864.5,Hyderabad,Swiggy,Credit Card,2026-05-01 15:15:00
+10,104,1228.0,Mumbai,Croma,Credit Card,2026-05-01 09:20:00
+11,104,1549.75,Pune,Croma,UPI,2026-05-01 12:20:00
+12,104,1871.5,Mumbai,Myntra,Credit Card,2026-05-01 15:20:00
+13,105,1235.0,Pune,DMart,Net Banking,2026-05-01 09:25:00
+14,105,1556.75,Hyderabad,Swiggy,Credit Card,2026-05-01 12:25:00
+15,105,1878.5,Chennai,Flipkart,Net Banking,2026-05-01 15:25:00
+16,106,1242.0,Mumbai,Amazon,Credit Card,2026-05-01 09:30:00
+17,106,1563.75,Pune,Swiggy,UPI,2026-05-01 12:30:00
+18,106,1885.5,Delhi,Flipkart,Net Banking,2026-05-01 15:30:00
+19,107,1249.0,Mumbai,Swiggy,Credit Card,2026-05-01 09:35:00
+20,107,1570.75,Chennai,DMart,Net Banking,2026-05-01 12:35:00
+21,107,1892.5,Mumbai,Amazon,UPI,2026-05-01 15:35:00
+22,108,1256.0,Mumbai,Swiggy,Credit Card,2026-05-01 09:40:00
+23,108,1577.75,Chennai,Swiggy,UPI,2026-05-01 12:40:00
+24,108,1899.5,Bangalore,DMart,Debit Card,2026-05-01 15:40:00
+25,109,1263.0,Hyderabad,Reliance,Net Banking,2026-05-01 09:45:00
+26,109,1584.75,Bangalore,Croma,Debit Card,2026-05-01 12:45:00
+27,109,1906.5,Delhi,Swiggy,UPI,2026-05-01 15:45:00
+28,110,1270.0,Mumbai,Croma,Net Banking,2026-05-01 09:50:00
+29,110,1591.75,Chennai,Zomato,Net Banking,2026-05-01 12:50:00
+30,110,1913.5,Hyderabad,Reliance,Net Banking,2026-05-01 15:50:00
+31,111,1277.0,Chennai,Flipkart,Debit Card,2026-05-01 09:55:00
+32,111,1598.75,Hyderabad,Croma,UPI,2026-05-01 12:55:00
+33,111,1920.5,Delhi,Croma,UPI,2026-05-01 15:55:00
+34,112,1284.0,Pune,Myntra,Debit Card,2026-05-01 10:00:00
+35,112,1605.75,Delhi,Zomato,Credit Card,2026-05-01 13:00:00
+36,112,1927.5,Bangalore,Zomato,Debit Card,2026-05-01 16:00:00
+37,113,1291.0,Hyderabad,Flipkart,UPI,2026-05-01 10:05:00
+38,113,1612.75,Mumbai,Myntra,UPI,2026-05-01 13:05:00
+39,113,1934.5,Pune,Croma,Credit Card,2026-05-01 16:05:00
+40,114,1298.0,Chennai,Myntra,Net Banking,2026-05-01 10:10:00
+41,114,1619.75,Hyderabad,Croma,Credit Card,2026-05-01 13:10:00
+42,114,1941.5,Hyderabad,Flipkart,Debit Card,2026-05-01 16:10:00
+43,115,1305.0,Chennai,DMart,UPI,2026-05-01 10:15:00
+44,115,1626.75,Chennai,DMart,UPI,2026-05-01 13:15:00
+45,115,1948.5,Pune,Amazon,Net Banking,2026-05-01 16:15:00
+46,116,1312.0,Hyderabad,Flipkart,Credit Card,2026-05-01 10:20:00
+47,116,1633.75,Chennai,Swiggy,Credit Card,2026-05-01 13:20:00
+48,116,1955.5,Mumbai,Myntra,UPI,2026-05-01 16:20:00
+49,117,1319.0,Bangalore,Flipkart,Credit Card,2026-05-01 10:25:00
+50,117,1640.75,Hyderabad,Swiggy,Credit Card,2026-05-01 13:25:00
+51,117,1962.5,Mumbai,Zomato,Credit Card,2026-05-01 16:25:00
+52,118,1326.0,Bangalore,DMart,Net Banking,2026-05-01 10:30:00
+53,118,1647.75,Chennai,Reliance,Credit Card,2026-05-01 13:30:00
+54,118,1969.5,Chennai,Zomato,Net Banking,2026-05-01 16:30:00
+55,119,1333.0,Delhi,Myntra,Net Banking,2026-05-01 10:35:00
+56,119,1654.75,Mumbai,Swiggy,Net Banking,2026-05-01 13:35:00
+57,119,1976.5,Mumbai,Myntra,Net Banking,2026-05-01 16:35:00
+58,120,1340.0,Pune,Swiggy,UPI,2026-05-01 10:40:00
+59,120,1661.75,Hyderabad,Myntra,UPI,2026-05-01 13:40:00
+60,120,1983.5,Delhi,DMart,Net Banking,2026-05-01 16:40:00
+61,121,1347.0,Bangalore,Croma,Debit Card,2026-05-01 10:45:00
+62,121,1668.75,Pune,Reliance,Net Banking,2026-05-01 13:45:00
+63,121,1990.5,Pune,Zomato,Debit Card,2026-05-01 16:45:00
+64,122,1354.0,Mumbai,Swiggy,Net Banking,2026-05-01 10:50:00
+65,122,1675.75,Bangalore,Reliance,Net Banking,2026-05-01 13:50:00
+66,122,1997.5,Delhi,Flipkart,Credit Card,2026-05-01 16:50:00
+67,123,1361.0,Mumbai,Zomato,Credit Card,2026-05-01 10:55:00
+68,123,1682.75,Delhi,Swiggy,Credit Card,2026-05-01 13:55:00
+69,123,2004.5,Mumbai,Myntra,Credit Card,2026-05-01 16:55:00
+70,124,1368.0,Pune,Myntra,Credit Card,2026-05-01 11:00:00
+71,124,1689.75,Chennai,Amazon,UPI,2026-05-01 14:00:00
+72,124,2011.5,Bangalore,Swiggy,Credit Card,2026-05-01 17:00:00
+73,125,1375.0,Hyderabad,Swiggy,Debit Card,2026-05-01 11:05:00
+74,125,1696.75,Mumbai,DMart,UPI,2026-05-01 14:05:00
+75,125,2018.5,Chennai,Myntra,UPI,2026-05-01 17:05:00
+76,126,1382.0,Mumbai,Myntra,Debit Card,2026-05-01 11:10:00
+77,126,1703.75,Pune,Swiggy,Credit Card,2026-05-01 14:10:00
+78,126,2025.5,Pune,Reliance,Debit Card,2026-05-01 17:10:00
+79,127,1389.0,Delhi,Myntra,Credit Card,2026-05-01 11:15:00
+80,127,1710.75,Chennai,Flipkart,UPI,2026-05-01 14:15:00
+81,127,2032.5,Bangalore,Myntra,Net Banking,2026-05-01 17:15:00
+82,128,1396.0,Delhi,DMart,Credit Card,2026-05-01 11:20:00
+83,128,1717.75,Bangalore,Swiggy,UPI,2026-05-01 14:20:00
+84,128,2039.5,Bangalore,Reliance,Credit Card,2026-05-01 17:20:00
+85,129,1403.0,Hyderabad,DMart,Net Banking,2026-05-01 11:25:00
+86,129,1724.75,Pune,Flipkart,Debit Card,2026-05-01 14:25:00
+87,129,2046.5,Mumbai,Zomato,Debit Card,2026-05-01 17:25:00
+88,130,1410.0,Chennai,Myntra,UPI,2026-05-01 11:30:00
+89,130,1731.75,Delhi,Flipkart,Debit Card,2026-05-01 14:30:00
+90,130,2053.5,Pune,Flipkart,Debit Card,2026-05-01 17:30:00
+91,131,1417.0,Mumbai,Myntra,UPI,2026-05-01 11:35:00
+92,131,1738.75,Mumbai,Reliance,Debit Card,2026-05-01 14:35:00
+93,131,2060.5,Mumbai,DMart,Debit Card,2026-05-01 17:35:00
+94,132,1424.0,Pune,Reliance,UPI,2026-05-01 11:40:00
+95,132,1745.75,Hyderabad,Swiggy,UPI,2026-05-01 14:40:00
+96,132,2067.5,Delhi,DMart,Credit Card,2026-05-01 17:40:00
+97,133,1431.0,Bangalore,DMart,Debit Card,2026-05-01 11:45:00
+98,133,1752.75,Hyderabad,Amazon,UPI,2026-05-01 14:45:00
+99,133,2074.5,Hyderabad,Croma,Debit Card,2026-05-01 17:45:00
+100,134,1438.0,Bangalore,Myntra,Net Banking,2026-05-01 11:50:00
+101,134,1759.75,Bangalore,Myntra,Debit Card,2026-05-01 14:50:00
+102,134,2081.5,Delhi,Reliance,UPI,2026-05-01 17:50:00
+103,135,1445.0,Hyderabad,Zomato,Debit Card,2026-05-01 11:55:00
+104,135,1766.75,Delhi,Swiggy,Credit Card,2026-05-01 14:55:00
+105,135,2088.5,Bangalore,Reliance,Credit Card,2026-05-01 17:55:00
+106,136,1452.0,Mumbai,Swiggy,Net Banking,2026-05-01 12:00:00
+107,136,1773.75,Mumbai,Reliance,Net Banking,2026-05-01 15:00:00
+108,136,2095.5,Delhi,Reliance,Debit Card,2026-05-01 18:00:00
+109,137,1459.0,Mumbai,DMart,Debit Card,2026-05-01 12:05:00
+110,137,1780.75,Chennai,Zomato,Net Banking,2026-05-01 15:05:00
+111,137,2102.5,Delhi,Croma,Net Banking,2026-05-01 18:05:00
+112,138,1466.0,Delhi,Zomato,UPI,2026-05-01 12:10:00
+113,138,1787.75,Mumbai,Amazon,Net Banking,2026-05-01 15:10:00
+114,138,2109.5,Delhi,Myntra,UPI,2026-05-01 18:10:00
+115,139,1473.0,Bangalore,Swiggy,UPI,2026-05-01 12:15:00
+116,139,1794.75,Hyderabad,Amazon,UPI,2026-05-01 15:15:00
+117,139,2116.5,Hyderabad,Flipkart,Credit Card,2026-05-01 18:15:00
+118,140,1480.0,Pune,Amazon,Net Banking,2026-05-01 12:20:00
+119,140,1801.75,Mumbai,Zomato,Debit Card,2026-05-01 15:20:00
+120,140,2123.5,Mumbai,Zomato,Debit Card,2026-05-01 18:20:00
+121,101,95000.5,Mumbai,Amazon,Credit Card,2026-05-03 10:00:00
+122,101,94000.25,Mumbai,Flipkart,Credit Card,2026-05-03 10:00:20
+123,101,93000.75,Mumbai,Croma,Credit Card,2026-05-03 10:00:40
+124,101,92000.1,Mumbai,Reliance,Credit Card,2026-05-03 10:00:55
+125,115,12000.4,Delhi,Amazon,UPI,2026-05-04 15:00:00
+126,115,11800.3,Bangalore,Amazon,UPI,2026-05-04 15:08:00
